@@ -1,0 +1,72 @@
+header {
+  background-color: #4aaaa5;
+  border-color: #cccccc;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+img {
+  float: left;
+  width: 200px;
+  height: 200px;
+}
+
+img.1 {
+  float: left;
+  width: 300px;
+  height: 200px;
+}
+
+class: main-section {
+  float: center;
+  width: 250 px;
+  height: 200 px;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 40px;
+  color: #777777;
+  text-align: center;
+  float: center;
+  background-image: url("..assets/images/silver_scales.png");
+  background-repeat: repeat;
+}
+
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+main {
+  background-color: #ffffff;
+  border-color: #dddddd;
+  width: 960px;
+}
+
+p {
+  text-color: #777777;
+}
+
+class: main-container {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+footer {
+  background-color: #666666;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-color: white;
+}
+
+text-font: "Arial", "Helvetica Neue", Helvetica, sans-serif;
