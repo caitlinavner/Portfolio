@@ -10,16 +10,10 @@ img {
   height: 200px;
 }
 
-img.1 {
+.portfolio-img {
   float: left;
   width: 300px;
   height: 200px;
-}
-
-class: main-section {
-  float: center;
-  width: 250 px;
-  height: 200 px;
 }
 
 ul {
@@ -33,7 +27,7 @@ body {
   color: #777777;
   text-align: center;
   float: center;
-  background-image: url("..assets/images/silver_scales.png");
+  background-image: url("images/silver_scales.png");
   background-repeat: repeat;
 }
 
